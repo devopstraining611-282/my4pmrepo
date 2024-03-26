@@ -4,4 +4,6 @@ public static void main(){
 public void somefunction(){
 	system.out.println("This is some function");
 }
-
+public void anotherfunction(){
+	system.out.println("This is another function");
+}
