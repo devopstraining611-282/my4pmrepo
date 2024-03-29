@@ -11,3 +11,6 @@ void createacc(boolean acc){
 void issuepassbook(boolean pb){
 	pb=true;
 }
+void deposit(float dep){
+	bal=bal+dep;
+}
