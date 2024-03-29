@@ -14,3 +14,6 @@ void issuepassbook(boolean pb){
 void deposit(float dep){
 	bal=bal+dep;
 }
+void withdraw(float wid){
+	bal=bal-wid;
+}
